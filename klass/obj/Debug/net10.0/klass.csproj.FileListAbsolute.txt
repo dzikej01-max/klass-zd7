@@ -1,0 +1,14 @@
+C:\Users\эмма\Desktop\задница\klass\klass\bin\Debug\net10.0\klass.exe
+C:\Users\эмма\Desktop\задница\klass\klass\bin\Debug\net10.0\klass.deps.json
+C:\Users\эмма\Desktop\задница\klass\klass\bin\Debug\net10.0\klass.runtimeconfig.json
+C:\Users\эмма\Desktop\задница\klass\klass\bin\Debug\net10.0\klass.dll
+C:\Users\эмма\Desktop\задница\klass\klass\bin\Debug\net10.0\klass.pdb
+C:\Users\эмма\Desktop\задница\klass\klass\obj\Debug\net10.0\klass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\эмма\Desktop\задница\klass\klass\obj\Debug\net10.0\klass.AssemblyInfoInputs.cache
+C:\Users\эмма\Desktop\задница\klass\klass\obj\Debug\net10.0\klass.AssemblyInfo.cs
+C:\Users\эмма\Desktop\задница\klass\klass\obj\Debug\net10.0\klass.csproj.CoreCompileInputs.cache
+C:\Users\эмма\Desktop\задница\klass\klass\obj\Debug\net10.0\klass.dll
+C:\Users\эмма\Desktop\задница\klass\klass\obj\Debug\net10.0\refint\klass.dll
+C:\Users\эмма\Desktop\задница\klass\klass\obj\Debug\net10.0\klass.pdb
+C:\Users\эмма\Desktop\задница\klass\klass\obj\Debug\net10.0\klass.genruntimeconfig.cache
+C:\Users\эмма\Desktop\задница\klass\klass\obj\Debug\net10.0\ref\klass.dll
